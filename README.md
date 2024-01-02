@@ -1,3 +1,3 @@
 # Predicting Flight Delays
 
-Link to final report HTML: file:///C:/Users/haile/Downloads/261%20Final%20Project%20-%20Phase%20III.html
+This project was conducted for the "Machine Learning at Scale" course through UC Berkeley's Master of Information and Data Science graduate program. The overall objective of this project was to predict departure delays greater than 15 minutes, 2 hours before takeoff. 
